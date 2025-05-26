@@ -22,7 +22,7 @@ call .conversao_audios_wav\Scripts\activate
 ```
 4. Instalando as bibliotecas necessárias
 ```
-pip install -r requirementes.txt
+pip install -r requirements.txt
 ```
 5. Bibliotecas necessárias
 é necessário apenas o **ipykernel**, pois rodará o código no jupyter notebook.
